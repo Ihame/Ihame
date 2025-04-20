@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Lievin Ihame
 
-<!--
-**Ihame/Ihame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Tech Enthusiast | 🤖 AI & HealthTech Innovator | 🔧 Founder of Smart Garage
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm passionate about leveraging technology to drive innovation in Africa — especially in the areas of smart diagnostics, AI, and access to healthcare and mobility solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Projects
+- 🔧 **Smart Garage** – A virtual car diagnostic system powered by AI & ERP
+- 🏥 **HealthTech MVP** – A startup idea to improve healthcare in Africa
+- 🚗 **AutoMart** – An online marketplace for buying & selling cars
+- 📊 **Data Dashboards** – Using AI and data to evaluate performance
+
+## 🌱 What I’m Learning
+- AI Toolkit from ALX AiCE Program
+- Data analysis, machine learning, and product design
+- Building MVPs with limited resources
+
+## 📫 Connect with Me
+- 📧 Email: ihame.lievin@gmail.com
+- 🌍 Based in Kigali, Rwanda
+- 🔗 [LinkedIn](https://www.linkedin.com/) | [Twitter](https://twitter.com/)
+
+> "Empowering Africa through smart innovation."
+
