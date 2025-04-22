@@ -42,8 +42,8 @@
 - 📧 Email: ihame.lievin@gmail.com  
 - 📍 Kigali, Rwanda  
 - 🌐 [Portfolio](https://yourportfolio.com) (add later)  
-- 💼 [LinkedIn](https://linkedin.com/in/your-link) (add yours)  
-- 🐦 Twitter: [@ihamecodes](https://twitter.com/ihamecodes) *(optional)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/ihamelievin/)
+- 🐦 Twitter: [@ihamecodes](https://twitter.com/ihamecodes)
 
 ---
 
